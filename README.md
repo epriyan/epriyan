@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/user-attachments/assets/41d1f55b-4cc9-4387-81bd-5674e7d54959" alt="epriyan" />
 <h1 align="center">Hi 👋, I'm Priyan E</h1>
 <h3 align="center">I design UI/UX for Blockchain</h3>
 
