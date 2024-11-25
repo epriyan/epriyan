@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/user-attachments/assets/41d1f55b-4cc9-4387-81bd-5674e7d54959" alt="epriyan" />
 <h1 align="center">Hi 👋, I'm Priyan E</h1>
-<h3 align="center">I design UI/UX for Blockchain</h3>
+<h3 align="center">Social Media & UI/UX Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epriyan&label=Profile%20views&color=0e75b6&style=flat" alt="epriyan" /> </p>
 
